@@ -1,6 +1,6 @@
 name: RocketChat
 description: Chat Server Basis für Hammer.Chat
-verion: 0.1
+version: 0.1
 category: Chat
 maintainer: Clemens Hainmüller
 license: -
